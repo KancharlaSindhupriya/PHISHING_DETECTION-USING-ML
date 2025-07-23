@@ -2,8 +2,6 @@
 
 This project presents a comprehensive Machine Learning approach to detect phishing websites by analyzing various features of web pages. The goal is to improve cybersecurity by accurately identifying malicious websites and preventing users from falling victim to phishing attacks.
 
----
-
 ## 📌 Project Highlights
 
 ✅ Title: Phishing Website Detection: A Machine Learning Approach for Cybersecurity
@@ -12,7 +10,6 @@ This project presents a comprehensive Machine Learning approach to detect phishi
 🎯 Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 📄 Dataset: Extracted from open phishing datasets with URL-based and HTML-based features
 
----
 
 ## 🚀 Features
 
@@ -22,13 +19,13 @@ This project presents a comprehensive Machine Learning approach to detect phishi
 * Achieved high detection accuracy with Random Forest and Decision Tree classifiers
 * Conducted feature importance analysis to interpret model decisions
 
----
 
 ## 🔧 How to Run
 
 
 # Clone the repository
 git clone https://github.com/yourusername/phishing-website-detection.git
+
 cd phishing-website-detection
 
 # Install dependencies
@@ -36,7 +33,6 @@ pip install -r requirements.txt
 
 # Run the project notebook
 jupyter notebook phishing_detection.ipynb
-
 
 ## 📈 Model Performance
 
@@ -46,7 +42,6 @@ jupyter notebook phishing_detection.ipynb
 | Decision Tree       | 95.2%    | 94.5%     | 96.0%  | 95.2%    |
 | Logistic Regression | 92.0%    | 91.2%     | 91.8%  | 91.5%    |
 
----
 
 ## 📌 Research Contribution
 
@@ -55,7 +50,6 @@ jupyter notebook phishing_detection.ipynb
 * Published at **ICRTCST-2024 Conference**, Paper ID: **ICRTCST-24/CSE200**
 * Link at **https://ieeexplore.ieee.org/document/10578472**
 
----
 
 ## 👩‍💻 Author
 
