@@ -55,6 +55,6 @@ jupyter notebook phishing_detection.ipynb
 
 **Sindhupriya Kancharla**
 📧 Email: [sindhupriyakancharla04@gmail.com](mailto:sindhupriyakancharla04@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/sindhupriyakancharla) | [GitHub](https://github.com/KancharlaSindhupriya)
+🔗 [LinkedIn](https://www.linkedin.com/in/sindhu-priya-kancharla-0b6666217/) | [GitHub](https://github.com/KancharlaSindhupriya)
 
 
